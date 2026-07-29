@@ -39,7 +39,7 @@ The project applies multiple machine learning approaches:
 ```text
 .
 ├── data/          # Dataset folder
-├── reports/       # Proposal, progress report, and final report
+├── reports/       # Final report
 ├── project.ipynb  # Main notebook for data processing and modeling
 └── README.md  
 ```
